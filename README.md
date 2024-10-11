@@ -21,4 +21,6 @@ TensorFlow or PyTorch for deep learning.
 
 Python programming language.
 
-Open-source datasets for plant pathology (e.g., Kaggle).
+Open-source datasets for plant pathology (Kaggle).
+
+**dataset ink- **https://www.kaggle.com/search?q=plant+pathology
